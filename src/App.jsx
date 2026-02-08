@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 import Cursor from './components/Cursor'; 
 // We import the data from your new data.jsx file
-import { profile, skills, education, projects, achievements, interests } from './data.jsx';
+import { profile, skills, education, projects, achievements, interests } from './Data.jsx';
 
 // --- Animation Variants ---
 const fadeInUp = {
